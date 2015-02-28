@@ -1,4 +1,4 @@
-# WindowsへのGitとSourceTreeのインストーる
+# WindowsへのGitとSourceTreeのインストール
 
 ## 1. Gitをインストール
 * Gitで検索し、[オフィシャルサイト](http://git-csm.com/)にアクセス
